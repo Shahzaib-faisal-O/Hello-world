@@ -31,6 +31,6 @@ This is my First Ever repo created by watching ApnaCollage youtube Video
  <li>Commit  --- it is the record of change --git commit -m "some text/message"  </li>
  <h4> Push Command   </h4>
  <li>push -upload local repo(from your labtop) content to remote repo (to your online github account ) </li>
- <li>  </li>
+ <li>--> git push origin main </li>
 </ul>
 <br>
