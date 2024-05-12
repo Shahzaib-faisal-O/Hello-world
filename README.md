@@ -40,5 +40,25 @@ This is my First Ever repo created by watching ApnaCollage youtube Video [Apna C
  <h4> Push Command   </h4>
  <li>push -upload local repo(from your labtop) content to remote repo (to your online github account ) </li>
  <li>--> git push origin main </li>
+ <br>
 </ul>
+
+ <h4> init Command pushing a folder in the github repository   </h4>
+ <ol>
+ <li>Create a folder in the VS Code </li>
+ <li>Select that folder -->cd folder Name (cd .. to come to Root folder ) </li>
+ <li>write --> git init >to make it a git repoo </li>
+ <li>add the file in the folder  </li>
+ <li>git add . </li>
+ <li>git commit -m "message" </li>
+ </ol>
+ <caption> init Coomand --used to create a new git repo</caption>
+<ol>
+ <li>git init  </li>
+ <li>git remote add origin <-link-> </li>
+ <li>git remote -v (to verify remote ) </li>
+ <li>git branch (to check branch) </li>
+ <li>git branch -M main (to rename branch) </li>
+ <li>git push origin main </li>
+ </ol>
 <br>
