@@ -29,7 +29,7 @@ This is my First Ever repo created by watching ApnaCollage youtube Video [Apna C
 <br>
 
  no changes added to commit (use "git add" and/or "git commit -a") </li>
- <h4> Status termanoligies  </h4>
+ <h4> Status terminologies  </h4>
  <li>untrack new file that git does't track </li>
  <li>modified -- changed </li>
  <li>staged --file is ready to be committed  </li>
