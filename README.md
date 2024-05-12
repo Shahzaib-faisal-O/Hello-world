@@ -28,6 +28,9 @@ This is my First Ever repo created by watching ApnaCollage youtube Video
  <li>unmodified --unchanged  </li>
  <h4> Add and Commit   </h4>
  <li> Add -- add new file in your working directory to the staging area --git add (.)  </li>
- <li>Commit  --- </li>
+ <li>Commit  --- it is the record of change --git commit -m "some text/message"  </li>
+ <h4> Push Command   </h4>
+ <li>push -upload local repo(from your labtop) content to remote repo (to your online github account ) </li>
+ <li>  </li>
 </ul>
 <br>
