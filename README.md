@@ -1,9 +1,13 @@
 # Hello-world
-This is my First Ever repo created by watching ApnaCollage youtube Video [Apna Collage ](https://youtu.be/Ez8F0nW6S-w?si=WG84NekMWblEPRSh);
+This is my First Ever repo created by watching ApnaCollage youtube Video [Apna Collage ](https://youtu.be/Ez8F0nW6S-w?si=WG84NekMWblEPRSh) [git](https://git-scm.com/download/win) [Visual Studio Code ](https://code.visualstudio.com/)
 <br>
-<h1> Download git Bash   for Windows</h1> ([git](https://git-scm.com/download/win))
+
+<h1> Download git Bash for Windows </h1>
+<br>
+
 <ul>
-<li>Download git bash on your windows  </li>
+
+<li>Download git bash on your windows   </li>
 <ul>
 <h1>Steps</h1>
 <ul>
