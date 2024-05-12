@@ -27,7 +27,7 @@ This is my First Ever repo created by watching ApnaCollage youtube Video
  <li>staged --file is ready to be committed  </li>
  <li>unmodified --unchanged  </li>
  <h4> Add and Commit   </h4>
- <li> Add  </li>
- <li>Commit  </li>
+ <li> Add -- add new file in your working directory to the staging area --git add (.)  </li>
+ <li>Commit  --- </li>
 </ul>
 <br>
